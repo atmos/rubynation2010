@@ -1,3 +1,7 @@
 [
-  {"section":"intro"}
+  {"section":"01.intro"},
+  {"section":"02.stubs"},
+  {"section":"03.mocks"},
+  {"section":"04.fakes"},
+  {"section":"05.outro"}
 ]
